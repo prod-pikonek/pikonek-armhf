@@ -30,5 +30,5 @@ PyYAML==6.0
 RPi.GPIO==0.7.1
 SQLAlchemy==1.4.40
 tcconfig==0.25.2
-urllib3==1.22
+urllib3==1.26
 Werkzeug==2.0.3
